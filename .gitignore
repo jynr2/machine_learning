@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+casos_practicos_machine_learning.zip
+datasets.zip
